@@ -174,7 +174,10 @@
 /* mobile*/
 
 @media(min-width:320px){
-			.about-col1{width:100%;
+			.about-col1{
+				width:100%;
+				padding-left:30px;
+			
 			}
 			.about-row1{
 						width:100%;
