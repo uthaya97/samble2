@@ -45,13 +45,13 @@
 .card h1{
 	font-size:30px;
 }
-.para{
-	padding:0 120px;
-	text-transform:capitalize;
-	line-height:30px;
-	font-weight:400;
-	padding-bottom:30px;
-	}
+/* .para{ */
+	/* padding:0 120px; */
+	/* text-transform:capitalize; */
+	/* line-height:30px; */
+	/* font-weight:400; */
+	/* padding-bottom:30px; */
+	/* } */
 .service{
 	width:100%;
 	margin:auto;
@@ -167,7 +167,6 @@
 	width:100%;
 	display:flex;
 	flex-wrap:wrap;
-	opacity:0.6;
 }
 .card1 h2{
 	padding-top:10px;
@@ -175,7 +174,6 @@
 .card1 p{
 	padding-top:20px;
 	padding-right:50px;
-	opacity:0.7;
 	
 }
 .card1 .number{
@@ -209,7 +207,6 @@
 .about-row2 p{
 	padding:10px 50px;
 	font-weight:500;
-	opacity:0.7;
 }
 
 

@@ -57,7 +57,13 @@
 	padding:10px 40px;
 	
 }
-	
+.para{
+	padding:0 20px;
+	text-transform:capitalize;
+	line-height:30px;
+	font-weight:400;
+	padding-bottom:30px;
+	}	
 }
 
 /*ipad*/
@@ -89,7 +95,13 @@
 	padding:20px 60px;
 	
 }
-
+.para{
+	padding:0 20px;
+	text-transform:capitalize;
+	line-height:30px;
+	font-weight:400;
+	padding-bottom:30px;
+	}
 	
 }
 
@@ -107,6 +119,13 @@
 	width:100%;
 	display:flex;
 }
+.para{
+	padding:0 120px;
+	text-transform:capitalize;
+	line-height:30px;
+	font-weight:400;
+	padding-bottom:30px;
+	}
 	
 }
 
@@ -208,7 +227,7 @@
 						width:100%;
 						display:flex;
 						flex-wrap:wrap;
-						opacity:0.6;
+						
 }
 }
 
